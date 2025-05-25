@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RP2040LED.CSPcbDoc   2025-05-25  2:43:13 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RP2040LED-RoundHoles.TXT
+ASCII SlotHoles File : RP2040LED-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          99               13.58 Inch (345.02 mm)
+T2        19.68mil (0.49987mm)     Round          60               13.60 Inch (345.46 mm)
+T3        23.62mil (0.59995mm)     Slot           4                286.80 Inch (7284.74 mm)
+T4        35.43mil (0.89992mm)     Round          9                2.40 Inch (60.90 mm)
+T5        47.24mil (1.1999mm)      Round          9                2.20 Inch (55.86 mm)
+T6        78.74mil (2mm)           Round          24               5.94 Inch (151.00 mm)
+T7        118.11mil (2.99999mm)    Round          12               9.55 Inch (242.52 mm)
+T8        25.59mil (0.64999mm)     Round          2         NPTH   0.23 Inch (5.78 mm)
+---------------------------------------------------------------------------
+Totals                                            219              334.30 Inch (8491.27 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
